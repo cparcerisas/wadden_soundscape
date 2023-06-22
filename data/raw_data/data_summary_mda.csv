@@ -1,0 +1,5 @@
+deployment_name,campaign,instrument_name,instrument_sensitivity,instrument_amp,instrument_Vpp,deployment_path,timezone,include_dirs,calibration,latitude,longitude,end_to_end_calibration,sediment_type,other_var,new_var
+NLOyster1,1,SoundTrap,0,-170,2,0_NLOyster1.nc,UTC,0,-1,53.06843,4.88076,,reef,1,a
+NLOyster2,1,SoundTrap,0,-170,2,1_NLOyster2.nc,UTC,0,-1,53.06843,4.88076,,reef,1,a
+NLSand1,2,SoundTrap,0,-170,2,2_NLSand1.nc,UTC,0,-1,53.06843,5.20231,,sand,2,a
+NLSand2,2,SoundTrap,0,-160,2,3_NLSand2.nc,UTC,0,-1,53.06843,5.20231,,sand,2,a
