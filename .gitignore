@@ -2,3 +2,6 @@
 *.nc
 *.pkl
 .ipynb_checkpoints/
+*.png
+data/processed/
+output/
